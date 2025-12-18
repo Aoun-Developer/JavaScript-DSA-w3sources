@@ -1,0 +1,136 @@
+Create a Simple Promise:
+
+1. Write a JavaScript function that returns a Promise that resolves with a "Hello, World!" message after 1 second.
+
+Click me to see the solution
+
+
+Promise Chain Example:
+
+2. Write a JavaScript function that uses a chain of .then() calls to perform a series of asynchronous tasks.
+
+Click me to see the solution
+
+
+Handling Promise Rejection:
+
+3. Write a JavaScript program that demonstrates how to catch and handle errors in Promises using .catch().
+
+Click me to see the solution
+
+
+Promise.any() Example:
+
+4. Write a JavaScript function that takes multiple Promises and resolves with the first successful result using Promise.any().
+
+Click me to see the solution
+
+
+Promise.allSettled() Example:
+
+5. Write a JavaScript program that takes an array of Promises and logs both resolved and rejected results using Promise.allSettled().
+
+Click me to see the solution
+
+
+Simulating a Task Queue:
+
+6. Write a JavaScript program that processes an array of asynchronous tasks sequentially using Promises.
+
+Click me to see the solution
+
+
+Chained Async/Await Example:
+
+7. Write a JavaScript program that uses async/await to perform three asynchronous tasks in sequence.
+
+Click me to see the solution
+
+
+Error Handling in Async/Await:
+
+8. Write a JavaScript program to demonstrate how to handle errors in async/await functions using try...catch.
+
+Click me to see the solution
+
+
+Simulating a Throttled API:
+
+9. Write a JavaScript function that ensures only a specified number of asynchronous requests are made simultaneously.
+
+Click me to see the solution
+
+
+Custom Promise Wrapper:
+
+10. Write a JavaScript function that wraps an asynchronous operation in a Promise.
+
+Click me to see the solution
+
+
+Promise with setTimeout:
+
+11. Write a JavaScript function that creates a Promise that resolves after a given number of milliseconds.
+
+Click me to see the solution
+
+
+Promise.all with Mixed Operations:
+
+12. Write a JavaScript program that combines synchronous and asynchronous tasks using Promise.all.
+
+Click me to see the solution
+
+
+Creating a Debounce Function:
+
+13. Write a JavaScript function that creates a debounce function using Promises and setTimeout.
+
+Click me to see the solution
+
+
+Async/Await with Dynamic Imports:
+
+14. Write a JavaScript program that dynamically imports a module and uses an async function from that module.
+
+Click me to see the solution
+
+
+Promise.race Exercise:
+
+15. Write a JavaScript program that demonstrates the use of Promise.race to return the first completed Promise.
+
+Click me to see the solution
+
+
+Handling Nested Promises:
+
+16. Write a JavaScript function that resolves a nested Promise structure using async/await.
+
+Click me to see the solution
+
+
+Simulating a Loading Spinner:
+
+17. Write a JavaScript program that displays a "loading" message while waiting for an async operation to complete.
+
+Click me to see the solution
+
+
+Cancelable Promise:
+
+18. Write a JavaScript function that creates a cancellable Promise by using a custom wrapper.
+
+Click me to see the solution
+
+
+Parallel vs Sequential Fetch:
+
+19. Write a JavaScript program to fetch data from multiple APIs first in parallel and then sequentially, comparing their performance.
+
+Click me to see the solution
+
+
+Chained Retry with Delays:
+
+20. Write a JavaScript program to implement a function that retries a failed asynchronous operation with increasing delays between attempts.

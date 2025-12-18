@@ -1,0 +1,75 @@
+1. Throw Error for Non-Integer
+
+Write a JavaScript function that takes a number as a parameter and throws a custom 'Error' if the number is not an integer.
+
+Click me to see the solution
+
+2. Handle TypeError in Try-Catch
+
+Write a JavaScript program that uses a try-catch block to catch and handle a 'TypeError' when accessing a property of an undefined object.
+
+Click me to see the solution
+
+3. Throw Error for Division by Zero
+
+Write a JavaScript function that accepts two numbers as parameters and throws a custom 'Error' if the second number is zero.
+
+Click me to see the solution
+
+4. Throw Error for Negative Number
+
+Write a JavaScript function that takes a number as a parameter and throws a custom 'Error' if the number is negative.
+
+Click me to see the solution
+
+5. Throw Error for Empty Array
+
+Write a JavaScript function that takes an array as a parameter and throws a custom 'Error' if the array is empty.
+
+Click me to see the solution
+
+6. Throw Error for Empty String
+
+Write a JavaScript function that takes a string as a parameter and throws a custom 'Error' if the string is empty.
+
+Click me to see the solution
+
+7. Handle RangeError for Invalid Index
+
+Write a JavaScript program that uses a try-catch block to catch and handle a 'RangeError' when accessing an array with an invalid index.
+
+Click me to see the solution
+
+8. Multiple Catch Blocks
+
+Write a JavaScript program that shows the use of multiple catch blocks to handle different types of errors separately.
+
+Click me to see the solution
+
+9. Handle URIError for Invalid URI
+
+Write a JavaScript program that uses a try-catch block to catch and handle a 'URIError' when decoding an invalid URI.
+
+Click me to see the solution
+
+10. Try-Catch-Finally Example
+
+Write a JavaScript program that demonstrates the use of the 'try-catch-finally' statement to catch and handle an error, and then execute some cleanup code in the 'finally' block.
+
+Click me to see the solution
+
+11. Handle EvalError
+
+Write a JavaScript program that uses a try-catch block to catch and handle an 'EvalError' when evaluating an invalid expression.
+
+Click me to see the solution
+
+12. Handle ReferenceError
+
+Write a JavaScript program that uses a try-catch block to catch and handle a 'ReferenceError' when accessing an undefined variable.
+
+Click me to see the solution
+
+13. Handle SyntaxError for JSON Parsing
+
+Write a JavaScript program that uses a try-catch block to catch and handle a 'SyntaxError' when parsing an invalid JSON string.

@@ -1,0 +1,146 @@
+1. Button Click Event
+
+Write a JavaScript program that creates a button and add a click event listener to log a message when it's clicked.
+
+Click me to see the solution
+
+
+2. Dropdown Menu Toggle
+
+Write a JavaScript program to create a dropdown menu that shows and hides its options when clicked.
+
+Click me to see the solution
+
+
+3. Mouse Enter Background Change
+
+Write a JavaScript function that changes the background color of an element when a mouse enters it.
+
+Click me to see the solution
+
+
+4. Form Validation with Error Message
+
+Write a JavaScript program that implements a "form" validation that displays an error message if a required field is left empty when submitting the form.
+
+Click me to see the solution
+
+
+5. Image Slideshow Navigation
+
+Write a JavaScript program to create a slideshow that changes the displayed image when a next or previous button is clicked.
+
+Click me to see the solution
+
+
+6. Drag-and-Drop List Reordering
+
+Write a JavaScript program to implement drag-and-drop functionality to allow users to reorder items in a list.
+
+Click me to see the solution
+
+
+7. Toggle Switch Implementation
+
+Write a JavaScript program to implement a toggle switch that changes its state when clicked.
+
+Click me to see the solution
+
+
+8. Progress Bar Update
+
+Write a JavaScript program to create a progress bar that updates its width based on task completion.
+
+Click me to see the solution
+
+
+9. Enter Key Detection in Input
+
+Write a JavaScript program that adds a keydown event listener to a text input to detect when the "Enter key" is pressed.
+
+Click me to see the solution
+
+
+10. Double-Click Event Action
+
+Write a JavaScript function that listens for a double click on an element and performs a specific action.
+
+Click me to see the solution
+
+
+11. Event Delegation on List Items
+
+Write a JavaScript program to handle click events on dynamically added list items using event delegation.
+
+Click me to see the solution
+
+
+12. Prevent Default Behavior
+
+Write a JavaScript program that prevents the default behavior of a form submission and logs the input values to the console.
+
+Click me to see the solution
+
+
+13. Stop Propagation Example
+
+Write a JavaScript program that demonstrates event bubbling and uses stopPropagation to stop the event at a specific level.
+
+Click me to see the solution
+
+
+14. Event Capturing Example
+
+Write a JavaScript program that demonstrates event capturing by adding listeners to parent and child elements.
+
+Click me to see the solution
+
+
+15. Debounce Input Event
+
+Write a JavaScript program that debounces the input event of a text box to wait before making an API call.
+
+Click me to see the solution
+
+
+JavaScript Browser API Exercises [16 - 21 exercises with solution ]
+
+
+16. LocalStorage Counter
+
+Write a JavaScript program that implements a counter using localStorage to save the count across page refreshes.
+
+Click me to see the solution
+
+
+17. SessionStorage Cart
+
+Write a JavaScript program to simulate a shopping cart where the cart state is stored in sessionStorage.
+
+Click me to see the solution
+
+
+18. Fetch API with Error Handling
+
+Write a JavaScript program that fetches data from an API, handles network errors, and displays the results on a webpage.
+
+Click me to see the solution
+
+
+19. Geolocation API Example
+
+Write a JavaScript program that uses the Geolocation API to display the user's current location.
+
+Click me to see the solution
+
+
+20. Clipboard API for Copy
+
+Write a JavaScript program that copies the content of a text box to the clipboard when a button is clicked.
+
+Click me to see the solution
+
+
+21. Web Notifications API
+
+Write a JavaScript program that sends a desktop notification to the user after getting permission.

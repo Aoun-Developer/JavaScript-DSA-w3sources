@@ -1,0 +1,78 @@
+1. Find Word Index Positions
+
+Write a JavaScript program to find all the index positions of a given word within a given string.
+
+Test Data:
+
+( "The quick brown fox jumps over the lazy dog.", "the") -> [31]
+( "the quick brown fox jumps over the lazy dog.", "the") -> [0, 31]
+( "the quick brown fox jumps over the lazy dog.", "cat") -> []
+
+Click me to see the solution
+
+
+2. Linear Search Index
+
+Write a JavaScript program to find the first index of a given element in an array using the linear search algorithm.
+
+From Wikipedia -
+
+In computer science, a linear search or sequential search is a method for finding an element within a list. It sequentially checks each element of the list until a match is found or the whole list has been searched.
+A linear search runs in at worst linear time and makes at most n comparisons, where n is the length of the list. If each element is equally likely to be searched, then linear search has an average case of (n+1)/2 comparisons, but the average case can be affected if the search probabilities for each element vary. Linear search is rarely practical because other search algorithms and schemes, such as the binary search algorithm and hash tables, allow significantly faster searching for all but short lists.
+
+Test Data:
+
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 3) -> 2
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 9) -> 8
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 1) -> 0
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 0) -> -1
+
+Click me to see the solution
+
+
+3. Ternary Search Index
+
+Write a JavaScript program to find the first index of a given element in an array using the ternary search algorithm.
+
+A ternary search algorithm is a technique in computer science for finding the minimum or maximum of a unimodal function. A ternary search determines either that the minimum or maximum cannot be in the first third of the domain or that it cannot be in the last third of the domain, then repeats on the remaining two thirds. A ternary search is an example of a divide and conquer algorithm.
+
+Test Data:
+
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 3, 0, 5)) -> 2
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 9, 0, 8)) -> 8
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 0, 0, 8)) -> -1
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 4, 6, 8)) -> -1
+
+Click me to see the solution
+
+
+4. Jump Search Index
+
+Write a JavaScript program to find an element in a given sorted array of elements using Jump Search.
+
+From Wikipedia, in computer science, a jump search or block search refers to a search algorithm for ordered lists. It works by first checking all items Lkm, where κ ∈ Ν and m is the block size, until an item is found that is larger than the search key. To find the exact position of the search key in the list a linear search is performed on the sublist L[(k-1)m, km].
+
+Test Data:
+
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 3) -> 2
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 9) -> 8
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 1) -> 0
+([1, 2, 3, 4, 5, 6, 7, 8, 9], 0) -> -1
+
+Click me to see the solution
+
+
+5. Interpolation Search Index
+
+Write a JavaScript program to find an element in a given sorted array of elements using Interpolation Search.
+
+From Wikipedia:
+
+Interpolation search is an algorithm for searching for a key in an array that has been ordered by numerical values assigned to the keys (key values). It was first described by W. W. Peterson in 1957. Interpolation search resembles the method by which people search a telephone directory for a name (the key value by which the book's entries are ordered): in each step the algorithm calculates where in the remaining search space the sought item might be, based on the key values at the bounds of the search space and the value of the sought key, usually via a linear interpolation. The key value actually found at this estimated position is then compared to the key value being sought. If it is not equal, then depending on the comparison, the remaining search space is reduced to the part before or after the estimated position. This method will only work if calculations on the size of differences between key values are sensible.
+
+Test Data:
+
+([1, 7, 13, 14, 15, 26, 37, 48, 99, 110], 13) -> 2
+([1, 7, 13, 14, 15, 26, 37, 48, 99, 110], 26) -> 5
+([1, 7, 13, 14, 15, 26, 37, 48, 99, 110], 0) -> -1
+([1, 7, 13, 14, 15, 26, 37, 48, 99, 110], 99) ->8

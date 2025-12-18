@@ -1,0 +1,166 @@
+1. Check Uppercase First
+
+Write a JavaScript program to test whether the first character of a string is uppercase or not.
+
+Click me to see the solution
+
+
+2. Validate Credit Card
+
+Write a JavaScript program to check a credit card number.
+
+Click me to see the solution
+
+
+3. Email Pattern
+
+Write a pattern that matches e-mail addresses.
+
+The personal information part contains the following ASCII characters.
+
+Uppercase (A-Z) and lowercase (a-z) English letters.
+Digits (0-9).
+Characters ! # $ % & ' * + - / = ? ^ _ ` { | } ~
+Character . ( period, dot or fullstop) provided that it is not the first or last character and it will not come one after the other.
+Click me to see the solution
+
+
+4. Search Date in String
+
+Write a JavaScript program to search a date within a string.
+
+Click me to see the solution
+
+
+5. Regex Trim Function
+
+Write a JavaScript program that works as a regular expression trim function (string).
+
+Click me to see the solution
+
+
+6. Count Words in String
+
+Write a JavaScript program to count number of words in string.
+Note :
+- Remove white-space from start and end position.
+- Convert 2 or more spaces to 1.
+- Exclude newline with a start spacing.
+
+Click me to see the solution
+
+
+7. Validate IP Address
+
+Write a JavaScript function to check whether a given value is IP value or not.
+
+Click me to see the solution
+
+
+8. Count Vowels
+
+Write a JavaScript function to count the number of vowels in a given string.
+
+Test Data :
+console.log(alphabetize_string('United States'));
+Output :
+"SUadeeinsttt"
+
+Click me to see the solution
+
+
+9. Validate URL
+
+Write a JavaScript function to check whether a given value is a valid URL or not.
+
+Click me to see the solution
+
+
+10. Check Alphanumeric
+
+Write a JavaScript function to check whether a given value is alpha numeric or not.
+
+Click me to see the solution
+
+
+11. Validate Time String
+
+Write a JavaScript function to check whether a given value is a time string or not.
+
+Click me to see the solution
+
+
+12. Validate US Zip Code
+
+Write a JavaScript function to check whether a given value is a US zip code or not.
+
+Click me to see the solution
+
+
+13. Validate UK Post Code
+
+Write a JavaScript function to check whether a given value is a UK Post Code or not.
+
+Click me to see the solution
+
+
+14. Validate Canada Post Code
+
+Write a JavaScript function to check whether a given value is a Canada Post Code or not.
+
+Click me to see the solution
+
+
+15. Validate SSN
+
+Write a JavaScript function to check whether a given value is a social security number or not.
+
+Click me to see the solution
+
+
+16. Validate Hexadecimal
+
+Write a JavaScript function to check whether a given value is a hexadecimal value or not.
+
+Click me to see the solution
+
+
+17. Validate Hex Color
+
+Write a JavaScript function to check whether a given value is a hexcolor value or not.
+
+Click me to see the solution
+
+
+18. Validate Domain
+
+Write a JavaScript function to check whether a given value represents a domain.
+
+Click me to see the solution
+
+
+19. Validate HTML Content
+
+Write a JavaScript function to check whether a given value is HTML or not.
+
+Click me to see the solution
+
+
+20. Alpha-Dash-Underscore Check
+
+Write a JavaScript function to check if a given value contains alpha, a dash and an underscore.
+
+Click me to see the solution
+
+
+21. Thousands Separator
+
+Write a JavaScript function to print an integer with thousands separated by commas.
+
+Test Data :
+console.log(thousands_separators(1000));
+"1,000"
+console.log(thousands_separators(10000.23));
+"10,000.23"
+console.log(thousands_separators(100000));
+"100,000"

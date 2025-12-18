@@ -1,0 +1,66 @@
+1. Validate Boolean
+
+Write a JavaScript function to validate whether a given value type is boolean or not.
+
+Click me to see the solution
+
+
+2. Validate Error
+
+Write a JavaScript function to validate whether a given value type is an error or not.
+
+Click me to see the solution
+
+
+3. Validate NaN
+
+Write a JavaScript function to validate whether a given value type is NaN or not.
+
+Click me to see the solution
+
+
+4. Validate Null
+
+Write a JavaScript function to validate whether a given value type is null or not.
+
+Click me to see the solution
+
+
+5. Validate Number
+
+Write a JavaScript function to validate whether a given value is a number or not.
+
+Click me to see the solution
+
+
+6. Validate Object
+
+Write a JavaScript function to validate whether a given value is an object or not.
+
+Click me to see the solution
+
+
+7. Validate Pure JSON Object
+
+Write a JavaScript function to validate whether a given value type is a pure JSON object or not.
+
+Click me to see the solution
+
+
+8. Validate RegExp
+
+Write a JavaScript function to validate whether a given value is RegExp or not.
+
+Click me to see the solution
+
+
+9. Validate Char
+
+Write a JavaScript function to validate whether a given value type is char or not.
+
+Click me to see the solution
+
+
+10. Check Value Equality
+
+Write a JavaScript function to check whether the given values are the same or not.

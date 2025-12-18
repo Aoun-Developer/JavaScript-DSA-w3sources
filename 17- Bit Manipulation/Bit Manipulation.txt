@@ -1,0 +1,213 @@
+1. Opposite Signs
+
+Write a JavaScript program to check if two given integers have opposite signs.
+
+Test Data:
+
+(100, -100) -> "Signs are opposite"
+(100, 100) -> "Signs are not opposite"
+('100, 100) -> "Parameters value must be number!"
+
+Click me to see the solution
+
+
+2. Swap Variables with Bits
+
+Write a JavaScript program to swap two variables using bit manipulation.
+
+Test Data:
+
+(12, 15) -> (15,12)
+
+Click me to see the solution
+
+
+3. Count Zero Bits
+
+Write a JavaScript program to count 0 bits in the binary representation of a given integer.
+
+Test Data:
+
+(45) -> 2
+(17) -> 3
+(15) -> "Parameter value is not an Integer!"
+
+Click me to see the solution
+
+
+4. Next Power of Two
+
+Write a JavaScript program to find the next power of two of a given number.
+
+A power of two is a number of the form 2n where n is an integer, that is, the result of exponentiation with number two as the base and integer n as the exponent.
+
+The first ten powers of 2 for non-negative values of n are: 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, ...
+
+Test Data:
+
+(1) -> 1
+(4) -> 4
+(9) -> 16
+("15") -> "It must be number!"
+
+Click me to see the solution
+
+
+5. Odd or Even (Bits)
+
+Write a JavaScript program to check if a given number is odd or even using bit manipulation.
+
+A number (i.e., integer) expressed in the decimal numeral system is even or odd according to whether its last digit is even or odd. That is, if the last digit is 1, 3, 5, 7, or 9, then it is odd; otherwise it is even-as the last digit of any even number is 0, 2, 4, 6, or 8.
+
+Test Data:
+
+(1) -> 1 is an odd number.
+(4) -> 4 is an even number.
+(9) -> 9 is an odd number.
+("15") -> Parameter value must be number!
+
+Click me to see the solution
+
+
+6. Power of Four Check
+
+Write a JavaScript program to check if a given positive number is a power of four or not using bit manipulation.
+
+The expression n & (n-1) will unset the rightmost set bit of a number. If the number is a power of 2, it has only a 1-bit set, and n & (n-1) will unset the only set bit. So, we can say that n & (n-1) returns 0 if n is a power of 2; otherwise, it's not a power of 2.
+
+The mask 0xAAAAAAAA will allow us to determine where the set bit is located. In all of its odd positions, the mask 0xAAAAAAAA has a value of 1. The set bit in n will be even if the expression (n & 0xAAAAAAAA) is true.
+
+(0xAAAAAAAA)16 = (10101010101010101010101010101010)2.
+
+Test Data:
+
+(256) -> true
+(4) -> true
+(2) -> false
+("16") -> "It must be number!"
+
+Click me to see the solution
+
+
+7. Swap Bits
+
+Write a JavaScript program to swap two bits (from the right side, the rightmost position is 0) in the binary representation of an integer at the given position.
+
+Test Data:
+
+(245) -> 249
+
+Click me to see the solution
+
+
+8. Binary Logarithm (log2n)
+
+Write a JavaScript program to calculate the binary logarithm (log2n) using bitwise operators.
+
+From handwiki.org -
+
+Binary logarithm:
+
+In mathematics, the binary logarithm (log2n) is the power to which the number 2 must be raised to obtain the value n. That is, for any real number x,
+
+Binary Logarithm
+
+For example, the binary logarithm of 1 is 0, the binary logarithm of 2 is 1, the binary logarithm of 4 is 2, and the binary logarithm of 32 is 5.
+
+The binary logarithm is the logarithm to the base 2 and is the inverse function of the power of two function. As well as log2, an alternative notation for the binary logarithm is lb (the notation preferred by ISO 31-11 and ISO 80000-2).
+
+Test Data:
+
+(1) -> 0
+(2) -> 1
+(4) -> 2
+(32) -> 5
+
+Click me to see the solution
+
+
+9. Turn Off kth Bit
+
+Write a JavaScript program to turn off the kth bit in a given number. Return the updated number.
+
+Test Data:
+
+(30, 3)-> 26
+
+Click me to see the solution
+
+
+10. Turn On kth Bit
+
+Write a JavaScript program to turn on the kth bit of a given number. Return the updated number.
+
+Test Data:
+
+(33, 3)-> 37
+
+Click me to see the solution
+
+
+11. Check kth Bit
+
+Write a JavaScript program to check whether the kth bit is set or not in a given number. Return true if the kth bit is set otherwise false.
+
+In a binary representation the presence of a non-zero value indicates that the k'th bit is set.
+
+Test Data:
+
+(33, 1) -> true
+(33, 2) -> false
+
+Click me to see the solution
+
+
+12. Rightmost Set Bit
+
+Write a JavaScript program to find the position of the rightmost set bit of a given number. The number 1 represents the set bits in a binary number.
+
+Test Data:
+
+(34) -> 2
+(104) -> 4
+
+Click me to see the solution
+
+
+13. Parity Check
+
+Write a JavaScript program to calculate and find the parity of a given number.
+
+In mathematics, parity is the property of an integer of whether it is even or odd. In binary numbers, parity refers to the total number of 1s. The odd parity(1) represents an odd number of 1s, whereas the even parity(0) represents an even number of 1s.
+
+In information theory, a parity bit appended to a binary number provides the simplest form of error detecting code. If a single bit in the resulting value is changed, then it will no longer have the correct parity: changing a bit in the original number gives it a different parity than the recorded one, and changing the parity bit while not changing the number it was derived from again produces an incorrect result. In this way, all single-bit transmission errors may be reliably detected. Some more sophisticated error detecting codes are also based on the use of multiple parity bits for subsets of the bits of the original encoded value.
+
+Test Data:
+
+(34) -> "Parity of 34 is even."
+(104) -> "Parity of 104 is odd."
+
+Click me to see the solution
+
+
+14. Non-Repeated Element
+
+In an array every element appears twice except for one. Write a JavaScript program to find the non-repeated element in an array using bit manipulation.
+
+Test Data:
+
+([1]) -> 1
+([1, 2, 3]) -> 0 [All elements are non- repeated]
+[1, 2, 8, 3, 1, 2, 3, 8, 6, 6, 7] -> 7
+
+Click me to see the solution
+
+
+15. Max/Min of Two Integers
+
+Write a JavaScript program to calculate the maximum or minimum of two integers.
+
+Test Data:
+
+(12, 15) -> 15, 12
+(-7,-5) -> -5, -7

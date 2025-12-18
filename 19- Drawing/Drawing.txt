@@ -1,0 +1,63 @@
+Write a JavaScript program to draw the following rectangular shape.
+
+Expected Output :
+
+rectagular shape
+
+Click me to see the solution
+
+
+Draw Circle
+
+Write a JavaScript program to draw a circle.
+
+Expected Output :
+
+draw a circle
+
+Click me to see the solution
+
+
+
+Intersecting Rectangles
+
+Write a JavaScript program to draw two intersecting rectangles, one with Alpha transparency.
+
+Expected Output :
+
+intersecting rectangles
+
+Click me to see the solution
+
+
+Right-Angled Triangle
+
+Write a JavaScript program to draw the following right-angled triangle.
+
+Expected Output :
+
+right angled triangle
+
+Click me to see the solution
+
+
+MoveTo Diagram
+
+Write a JavaScript program to draw the following diagram [use the moveto() function].
+
+Expected Output :
+
+draw fun
+
+Click me to see the solution
+
+
+MoveTo Diagram
+
+Write a JavaScript program to draw the following diagram [diagonal, white to black circles].
+
+Expected Output :
+
+diagonal, white to black circles
+
+Click me to see the solution

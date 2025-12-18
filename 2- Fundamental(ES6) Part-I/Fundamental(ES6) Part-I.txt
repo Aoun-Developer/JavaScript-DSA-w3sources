@@ -1,0 +1,898 @@
+1. Compare Objects for Equivalent Properties
+
+Write a JavaScript program to compare two objects to determine if the first contains equivalent property values to the second one.
+
+Click me to see the solution
+
+2. Copy String to Clipboard
+
+Write a JavaScript program to copy a string to the clipboard.
+
+Click me to see the solution
+
+3. CSV String to 2D Array
+
+Write a JavaScript program to convert a comma-separated value (CSV) string to a 2D array.
+
+Click me to see the solution
+
+4. CSV to 2D Array of Objects
+
+Write a JavaScript program to convert a comma-separated value (CSV) string to a 2D array of objects. The first row of the string is used as the title row.
+
+Click me to see the solution
+
+5. Array of Objects to CSV String
+
+Write a JavaScript program to convert an array of objects to a comma-separated value (CSV) string that contains only the columns specified.
+
+Click me to see the solution
+
+6. Target Value in Nested JSON
+
+Write a JavaScript program to target a given value in a nested JSON object based on the given key.
+
+Click me to see the solution
+
+7. Number to Array of Digits
+
+Write a JavaScript program to convert a specified number into an array of digits.
+
+Click me to see the solution
+
+8. Filter Specified Values from Array
+
+Write a JavaScript program to filter out the specified values from a specified array. Return the original array without filtered values.
+
+Click me to see the solution
+
+9. All Combinations from Array of Numbers
+
+Write a JavaScript program to combine the numbers of a given array into an array containing all combinations.
+
+Click me to see the solution
+
+10. Extract Values by Indexes from Array
+
+Write a JavaScript program to extract values at specified indexes from a specified array.
+
+Click me to see the solution
+
+11. Generate Random Hexadecimal Color Code
+
+Write a JavaScript program to generate a random hexadecimal color code.
+
+Click me to see the solution
+
+12. Remove Non-Printable ASCII from String
+
+Write a JavaScript program to remove non-printable ASCII characters from a given string.
+
+Click me to see the solution
+
+13. String Length in Bytes
+
+Write a JavaScript program to convert a given string's length to bytes.
+
+Click me to see the solution
+
+14. Replace Multiple Object Keys
+
+Write a JavaScript program to replace multiple object keys' names with the values provided.
+
+Click me to see the solution
+
+15. Min-Max Value of Array with Function
+
+Write a JavaScript program to return the minimum-maximum value of an array, after applying the provided function to set a comparing rule.
+
+Click me to see the solution
+
+16. Predicate Function Check for All Elements
+
+Write a JavaScript function that returns true if the provided predicate function returns true for all elements in a collection, false otherwise.
+
+Click me to see the solution
+
+17. Split Array into Two Groups
+
+Write a JavaScript program to split the values of two given arrays into two groups. If an element in the filter is true, the corresponding element in the collection belongs to the first group; otherwise, it belongs to the second group.
+
+Click me to see the solution
+
+18. Remove Left Elements from Array
+
+Write a JavaScript program to remove specified elements from the left of a given array of elements.
+
+Click me to see the solution
+
+19. Remove Right Elements from Array
+
+Write a JavaScript program to remove specified elements from the right of a given array of elements.
+
+Click me to see the solution
+
+20. Expand 3-Digit to 6-Digit Color Code
+
+Write a JavaScript program to extend a 3-digit color code to a 6-digit color code.
+
+Click me to see the solution
+
+21. Every nth Element in Array
+
+Write a JavaScript program to get every nth element in a given array.
+
+Click me to see the solution
+
+22. Filter Non-Unique Values in Array
+
+Write a JavaScript program to filter out non-unique values in an array.
+
+Click me to see the solution
+
+23. Filter Non-Unique with Comparator
+
+Write a JavaScript program to filter out non-unique values in an array, based on a provided comparator function.
+
+Click me to see the solution
+
+24. Decapitalize First Letter of String
+
+Write a JavaScript program to dcapitalize the first letter of a string.
+
+Click me to see the solution
+
+25. Create All Pairs from Arrays
+
+Write a JavaScript program to create an array out of the arrays by creating each possible pair from the arrays.
+
+Click me to see the solution
+
+26. Check y/yes or n/no in String
+
+Write a JavaScript program that returns true if the string is y/yes or false if the string is n/no.
+
+Click me to see the solution
+
+27. Find Common Elements with Comparator
+
+Write a JavaScript program to find every element in any of the two given arrays at once, using the provided comparator function.
+
+Click me to see the solution
+
+28. Measure Function Execution Time
+
+Write a JavaScript program to measure the time a function to execute.
+
+Click me to see the solution
+
+29. Convert Value to Safe Integer
+
+Write a JavaScript program to convert a value to a safe integer.
+
+Click me to see the solution
+
+30. Filter Elements Matching Values
+
+Write a JavaScript program to filter out the element(s) of a given array that have one of the specified values.
+
+Click me to see the solution
+
+31. All Elements Except First in Array
+
+Write a JavaScript program to find all elements in a given array except the first one. Return the whole array if its length is 1.
+
+Click me to see the solution
+
+32. Sum Array After Mapping Function
+
+Write a JavaScript program to get the sum of a given array, after mapping each element to a value using the provided function.
+
+Click me to see the solution
+
+33. Random Number in Range
+
+Write a JavaScript program to generate a random number in the specified range.
+
+Click me to see the solution
+
+34. Random Integer in Range
+
+Write a JavaScript program to generate a random integer in the specified range.
+
+Click me to see the solution
+
+35. Array of n Random Integers in Range
+
+Write a JavaScript program to get an array of given n random integers in the specified range.
+
+Click me to see the solution
+
+36. Invoke Functions with Arguments
+
+Write a JavaScript program to create a function that invokes each provided function with the arguments it receives and returns the results.
+
+Click me to see the solution
+
+37. Sort Array of Objects by Properties
+
+Write a JavaScript program to get a sorted array of objects ordered by properties and orders.
+
+Click me to see the solution
+
+38. Pad String on Both Sides
+
+Write a JavaScript program to pad a string on both sides with the specified character, if it's shorter than the specified length.
+
+Click me to see the solution
+
+39. Remove Keys from Object
+
+Write a JavaScript program to remove the key-value pairs corresponding to the given keys from an object.
+
+Click me to see the solution
+
+40. Create Key-Value Pair Array from Object
+
+Write a JavaScript program to create an array of key-value pair arrays from a given object.
+
+Click me to see the solution
+
+41. Object from Key-Value Pairs
+
+Write a JavaScript program to create an object from the given key-value pairs.
+
+Click me to see the solution
+
+42. Custom Coalesce Function
+
+Write a JavaScript program to get a customized coalesce function that returns the first argument that returns true from the provided argument validation function.
+
+Click me to see the solution
+
+43. Change Function to Variadic
+
+Write a JavaScript program to change a function that accepts an array into a variadic function.
+
+Click me to see the solution
+
+44. Remove Falsey Values from Array
+
+Write a JavaScript program to remove false values from a given array.
+
+Click me to see the solution
+
+45. Split Values into Two Groups by Filter
+
+Write a JavaScript program to split values into two groups. If an element in the filter is true, the corresponding element in the collection belongs to the first group; otherwise, it belongs to the second group.
+
+Click me to see the solution
+
+46. Curry a Function
+
+Write a JavaScript program to curry (curries) a function.
+
+Click me to see the solution
+
+47. Deep Comparison for Equivalence
+
+Write a JavaScript program to perform a deep comparison between two values to determine if they are equivalent.
+
+Click me to see the solution
+
+48. Array of Function Property Names
+
+Write a JavaScript program to get an array of function property names from the own (and optionally inherited) enumerable properties of an object.
+
+Click me to see the solution
+
+49. Retrieve Selected Properties from Object
+
+Write a JavaScript program to retrieve a set of properties indicated by the given selectors from an object.
+
+Click me to see the solution
+
+50. Integer to Suffix String with am/pm
+
+Write a JavaScript program to convert an integer to a suffixed string, adding am or pm based on its value.
+
+Click me to see the solution
+
+51. Get Current URL Parameters as Object
+
+Write a JavaScript program to get an object containing the current URL parameters.
+
+Click me to see the solution
+
+52. Group Array Elements by Function
+
+Write a JavaScript program to group the elements of a given array based on the given function.
+
+Click me to see the solution
+
+53. Initialize 2D Array with Size and Value
+
+Write a JavaScript program to initialize a two-dimensional array of given size and value.
+
+Click me to see the solution
+
+54. Array of Numbers in Specified Range
+
+Write a JavaScript program to initialize an array containing numbers in the specified range. Start and end are inclusive of their common point of difference.
+
+Click me to see the solution
+
+55. Join and Normalize URL Segments
+
+Write a JavaScript program to join all given URL segments together, then normalize the resulting URL.
+
+Click me to see the solution
+
+56. Check All Elements Equal in Array
+
+Write a JavaScript program to check whether all elements in a given array are equal or not.
+
+Click me to see the solution
+
+57. Average of Array with Mapping Function
+
+Write a JavaScript program to compute the average of an array, after mapping each element to a value using the provided function.
+
+Click me to see the solution
+
+58. Split Values into Groups by Predicate
+
+Write a JavaScript program to split values into two groups according to a predicate function. This specifies which group an element in the input collection belongs to.
+
+Click me to see the solution
+
+59. Invoke Function in Given Context
+
+Write a JavaScript program to create a function that invokes fn in a given context. Optionally add any additional variables to the arguments beginning.
+
+Click me to see the solution
+
+60. Invoke Object Method by Key
+
+Write a JavaScript program to create a function that invokes the method at a given key of an object. Optionally, add any parameters that are supplied to the beginning of the arguments.
+
+Click me to see the solution
+
+61. Cast Value to Array
+
+Write a JavaScript program to cast the provided value as an array if it's not one.
+
+Click me to see the solution
+
+62. Chain Asynchronous Functions
+
+Write a JavaScript program to chain asynchronous functions.
+
+Click me to see the solution
+
+63. Clone Regular Expression
+
+Write a JavaScript program to clone a given regular expression.
+
+Click me to see the solution
+
+64. Get First Non-Null/Undefined Argument
+
+Write a JavaScript program to get the first non-null / undefined argument.
+
+Click me to see the solution
+
+65. Add Console Log Colors
+
+Write a JavaScript program to add special characters to text to print in color on the console (combined with console.log()).
+
+Click me to see the solution
+
+66. Right-to-Left Function Composition
+
+Write a JavaScript program to perform right-to-left function composition.
+
+Click me to see the solution
+
+67. Left-to-Right Function Composition
+
+Write a JavaScript program to perform left-to-right function composition.
+
+Click me to see the solution
+
+68. Converge Function with Branching Functions
+
+Write a JavaScript program that accepts a converging function and a list of branching functions. It returns a function that applies each branching function to the arguments. The results of the branching functions are passed as arguments to the converging function.
+
+Click me to see the solution
+
+69. Group Array and Count Elements
+
+Write a JavaScript program to group array elements based on the given function. It return the count of elements in each group.
+
+Click me to see the solution
+
+70. Count Value in Array
+
+Write a JavaScript program to count a value in an array.
+
+Click me to see the solution
+
+71. Deep Clone Object
+
+Write a JavaScript program to create a deep clone of an object.
+
+Click me to see the solution
+
+72. Detect Mobile or Desktop
+
+Write a JavaScript program to detect whether the website is opened on a mobile device or a desktop/laptop.
+
+Click me to see the solution
+
+73. Difference Between Two Arrays with Mapping
+
+Write a JavaScript program to return the difference between two arrays, after applying the provided function to each array element of both.
+
+Click me to see the solution
+
+74. Filter Array by Comparator
+
+Write a JavaScript program to filter out all values from an array for which the comparator function does not return true.
+
+Click me to see the solution
+
+75. Elo Rating System Computation
+
+Write a JavaScript program to compute the updated ratings between two or more opponents using the Elo rating system. It takes an array of pre-ratings and returns an array containing post-ratings. The array should be ordered from top to bottom (winner -> loser).
+
+Click me to see the solution
+
+76. Execute Function for Array in Reverse Order
+
+Write a JavaScript program to execute a provided function once for each array element, starting with the array's last element.
+
+Click me to see the solution
+
+77. Iterate Over Object Properties
+
+Write a JavaScript program to iterate over all the properties of an object, running a callback for each one.
+
+Click me to see the solution
+
+78. Invert Key-Value Pairs in Object
+
+Write a JavaScript program to invert the key-value pairs of an object, without mutating it. The corresponding inverted value of each inverted key is an array of keys responsible for generating the inverted value. If a function is supplied, it is applied to each inverted key.
+
+Click me to see the solution
+
+79. Find Longest Iterable Object
+
+Write a JavaScript program to take any number of iterable objects or objects with a length property and return the longest one.
+
+Click me to see the solution
+
+80. Validate with Luhn Algorithm
+
+Write a JavaScript program to implement the Luhn Algorithm used to validate identification numbers. For example, credit card numbers, IMEI numbers, National Provider Identifier numbers etc.
+
+Click me to see the solution
+
+81. Create Keys with Function for Object
+
+Write a JavaScript program to create an object with keys generated by running the provided function for each key. The object will have the same values as the provided object.
+
+Click me to see the solution
+
+82. Map Array Values to Object
+
+Write a JavaScript program to map array values to an object using a function. The key-value pairs consist of the original value as the key and the mapped value.
+
+Click me to see the solution
+
+83. Map Characters of String to New String
+
+Write a JavaScript program to create an updated string with the results of calling a provided function on every character in the called string.
+
+Click me to see the solution
+
+84. Generate Object Values by Function
+
+Write a JavaScript program to create an object with the same keys as the provided object. It will also generate values generated by running the provided function for each value.
+
+Click me to see the solution
+
+85. Mask Characters Except Last Few
+
+Write a JavaScript program to replace all but the last number of characters with the specified mask character.
+
+Click me to see the solution
+
+86. Maximum Value of Array with Mapping
+
+Write a JavaScript program to get the maximum value of an array, after mapping each element to a value using the provided function.
+
+Click me to see the solution
+
+87. Get n Maximum Elements from Array
+
+Write a JavaScript program to get the n maximum elements from the provided array. If n is greater than or equal to the provided array's length, return the original array (sorted in descending order).
+
+Click me to see the solution
+
+88. Find Median of Numbers in Array
+
+Write a JavaScript program to get the median of an array of numbers.
+
+Click me to see the solution
+
+89. Negate Predicate Function
+
+Write a JavaScript program to negates a predicate function.
+
+Click me to see the solution
+
+90. Nest Flat Array Recursively
+
+Write a JavaScript program to nest a given flat array of objects linked to one another recursively.
+
+Click me to see the solution
+
+91. All Elements Fail Predicate Check
+
+Write a JavaScript program that returns true if the provided predicate function returns false for all elements in a collection, false otherwise.
+
+Click me to see the solution
+
+92. Get nth Argument by Index or Reverse Index
+
+Write a JavaScript program to create a function that gets the argument at index n. If n is negative, the nth argument from the end is returned.
+
+Click me to see the solution
+
+93. Remove Event Listener from Element
+
+Write a JavaScript program to remove an event listener from an element.
+
+Click me to see the solution
+
+94. Move Array Elements to End
+
+Write a JavaScript program to move the specified amount of elements to the end of the array.
+
+Click me to see the solution
+
+95. Add Event Listener with Delegation
+
+Write a JavaScript program to add an event listener to an element with the ability to use event delegation.
+
+Click me to see the solution
+
+96. Pick Keys from Object
+
+Write a JavaScript program to pick the key-value pairs corresponding to the given keys from an object.
+
+Click me to see the solution
+
+97. Object from Truthy Function Keys
+
+Write a JavaScript program to create an object composed of the properties the given function returns truthy for. The function is invoked with two arguments: (value, key).
+
+Click me to see the solution
+
+98. Filter Array of Objects by Condition
+
+Write a JavaScript program to filter an array of objects based on a condition while also filtering out unspecified keys.
+
+Click me to see the solution
+
+99. Hash String into Number
+
+Write a JavaScript program to hash a given input string into a whole number.
+
+Click me to see the solution
+
+100. Group Array by Index and Combine with Function
+
+Write a JavaScript program to create an array of elements, grouped based on the position in the original arrays. Use function as the last value to specify how grouped values should be combined.
+
+Click me to see the solution
+
+101. Object with Array Properties and Values
+
+Write a JavaScript program to return the object associating the properties to the values of a given array of valid property identifiers and an array of values.
+
+Click me to see the solution
+
+102. Group Array Elements by Position
+
+Write a JavaScript program to create an array of elements, grouped based on the position in the original array.
+
+Click me to see the solution
+
+103. String to Array of Words
+
+Write a JavaScript program to convert a given string into an array of words.
+
+Click me to see the solution
+
+104. Conditional Function Application
+
+Write a JavaScript program to test a value, x, against a predicate function. If true, return fn(x). Else, return x.
+
+Click me to see the solution
+
+105. Check if Value is a Number
+
+Write a JavaScript program that returns true if the given value is a number, false otherwise.
+
+Click me to see the solution
+
+106. Ungroup Array with Function
+
+Write a JavaScript program to create an array of elements, ungrouping the elements in an array produced by zip and applying the provided function.
+
+Click me to see the solution
+
+107. Distinct Values (Right-Side) by Comparator
+
+Write a JavaScript program to get all distinct values (from the right side of the array) of an array, based on a provided comparator function.
+
+Click me to see the solution
+
+108. Unique Values by Comparator
+
+Write a JavaScript program to get all unique values of an array, based on a provided comparator function.
+
+Click me to see the solution
+
+109. Get nth Element from Array
+
+Write a JavaScript program to get the nth element of a given array.
+
+Click me to see the solution
+
+110. All Elements from Two Arrays
+
+Write a JavaScript program to get every element in any of the two arrays at once.
+
+Click me to see the solution
+
+111. Build Array with Iterator and Seed
+
+Write a JavaScript program to build an array, using an iterator function and an initial seed value.
+
+Click me to see the solution
+
+112. Unflatten Object from Key Paths
+
+Write a JavaScript program to unflatten an object with the paths for keys.
+
+Click me to see the solution
+
+113. Unescape HTML Characters
+
+Write a JavaScript program to unescape escaped HTML characters.
+
+Click me to see the solution
+
+114. Uncurry Function to Depth n
+
+Write a JavaScript program to uncurry a function up to depth n.
+
+Click me to see the solution
+
+115. Single-Argument Function
+
+Write a JavaScript program to create a function that accepts up to one argument, ignoring any additional arguments.
+
+Click me to see the solution
+
+116. Truthy Predicate Check on Collection
+
+Write a JavaScript program to check if the predicate (second argument) is truthy on all elements of a collection (first argument).
+
+Click me to see the solution
+
+117. Truncate String to Length
+
+Write a JavaScript program to truncate a string up to a specified length.
+
+Click me to see the solution
+
+118. Reduce Object with Accumulator Function
+
+Write a JavaScript program to apply a function against an accumulator and each key in the object (from left to right).
+
+Click me to see the solution
+
+119. String for Tomorrow's Date
+
+Write a JavaScript program to create tomorrow's date in a string representation.
+
+Click me to see the solution
+
+120. String to Snake Case
+
+Write a JavaScript program to convert a string to snake case.
+
+Click me to see the solution
+
+121. Convert Value to Safe Integer
+
+Write a JavaScript program to convert a value to a safe integer.
+
+Click me to see the solution
+
+122. Add Ordinal Suffix to Number
+
+Write a JavaScript program to add an ordinal suffix to a number.
+
+Click me to see the solution
+
+123. String to Kebab Case
+
+Write a JavaScript program to convert a string to kebab case.
+
+Click me to see the solution
+
+124. Reduce Array-Like to Hash Map
+
+Write a JavaScript program to reduce a given Array-like into a value hash (keyed data store).
+
+Click me to see the solution
+
+125. Decimal Format Float to Comma-Separated String
+
+Write a JavaScript program that converts float-point arithmetic to decimal form, and creates a comma separated string from a number.
+
+Click me to see the solution
+
+126. Format Number as Currency
+
+Write a JavaScript program to create a specified currency format from a given number.
+
+Click me to see the solution
+
+127. Iterate Callback n Times
+
+Write a JavaScript program to Iterate over a callback n times.
+
+Click me to see the solution
+
+128. Remove Elements Until Function True
+
+Write a JavaScript program to get removed elements of a given array until the passed function returns true.
+
+Click me to see the solution
+
+129. Remove Elements from End Until True
+
+Write a JavaScript program to get removed elements from the end of a given array until the passed function returns true.
+
+Click me to see the solution
+
+130. Remove n Elements from End
+
+Write a JavaScript program to remove n elements from the end of a given array.
+
+Click me to see the solution
+
+131. Remove n Elements from Beginning
+
+Write a JavaScript program to get an array with n elements removed from the beginning from a given array
+
+Click me to see the solution
+
+132. Symmetric Difference with Comparator
+
+Write a JavaScript program to get the symmetric difference between two given arrays, using a provided function as a comparator.
+
+Click me to see the solution
+
+133. Symmetric Difference with Mapping
+
+Write a JavaScript program to get the symmetric difference between two given arrays, after applying the provided function to each array element of both.
+
+Click me to see the solution
+
+134. Symmetric Difference Between Arrays
+
+Write a JavaScript program to get the symmetric difference between two given arrays.
+
+Click me to see the solution
+
+135. Sum of Powers in Range
+
+Write a JavaScript program to get the sum of the powers of all the numbers from start to end (both inclusive).
+
+Click me to see the solution
+
+136. String Permutations (With Duplicates)
+
+Write a JavaScript program to generate all permutations of a string (contains duplicates).
+
+Click me to see the solution
+
+137. Stable Sort Array
+
+Write a JavaScript program to perform stable sorting of an array, preserving the initial indexes of items when their values are the same. Returns a new array instead of mutating the original array.
+
+Click me to see the solution
+
+138. Variadic Function with Array Inputs
+
+Write a JavaScript program that takes a variadic function and returns a closure that accepts an array of arguments to map to the inputs of the function.
+
+Click me to see the solution
+
+139. Split Multiline String to Array
+
+Write a JavaScript program to split a multiline string into an array of lines.
+
+Click me to see the solution
+
+140. Highest Index for Sorted Insertion (With Iterator)
+
+Write a JavaScript program to get the highest index at which value should be inserted into an array in order to maintain its sort order. This is based on a provided iterator function.
+
+Click me to see the solution
+
+141. Highest Index for Sorted Insertion
+
+Write a JavaScript program to get the highest index at which value should be inserted into an array in order to maintain its sort order.
+
+Click me to see the solution
+
+142. Lowest Index for Sorted Insertion
+
+Write a JavaScript program to get the lowest index at which values should be inserted into an array in order to maintain its sorting order.
+
+Click me to see the solution
+
+143. Sort String Alphabetically
+
+Write a JavaScript program to sort the characters of a string Alphabetically.
+
+Click me to see the solution
+
+144. Intersection of Two Arrays
+
+Write a JavaScript program to get an array of elements that appear in both arrays.
+
+Click me to see the solution
+
+145. Randomize Array Values
+
+Write a JavaScript program to randomize the order of array values, returning an updated array.
+
+Click me to see the solution
+
+146. Shallow Clone Object
+
+Write a JavaScript program to create a shallow clone of an object.
+
+Click me to see the solution
+
+147. Serialize Cookie Name-Value to Set-Cookie Header
+
+Write a JavaScript program to serialize a cookie name-value pair into a Set-Cookie header string.
+
+Click me to see the solution
+
+148. Hash String to Whole Number
+
+Write a JavaScript program to hash the input string into a whole number.
+
+Click me to see the solution
+
+149. Random Element from Array
+
+Write a JavaScript program to get a random element from an array.
+
+Click me to see the solution
+
+150. Run Promises in Series
+
+Write a JavaScript program to run a given array of promises in series.
+

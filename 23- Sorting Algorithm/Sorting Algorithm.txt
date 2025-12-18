@@ -1,0 +1,259 @@
+1. Quick Sort
+
+Write a JavaScript program to sort a list of elements using Quick sort.
+
+Quick sort is a comparison sort, meaning that it can sort items of any type for which a "less-than" relation (formally, a total order) is defined.
+
+Click me to see the solution
+
+
+2. Merge Sort
+
+Write a JavaScript program to sort a list of elements using Merge sort.
+
+According to Wikipedia "Merge sort (also commonly spelled mergesort) is an O (n log n) comparison-based sorting algorithm. Most implementations produce a stable sort, which means that the implementation preserves the input order of equal elements in the sorted output."
+
+Click me to see the solution
+
+
+3. Heap Sort
+
+Write a JavaScript program to sort a list of elements using Heap sort.
+
+In computer science, heapsort (invented by J. W. J. Williams in 1964) is a comparison-based sorting algorithm. Heapsort can be thought of as an improved selection sort: like that algorithm, it divides its input into a sorted and an unsorted region, and it interactively shrinks the unsorted region by extracting the largest element and moving that to the sorted region. The improvement consists of the use of a heap data structure rather than a linear-time search to find the maximum. Although somewhat slower in practice on most machines than a well-implemented quicksort, it has the advantage of a more favorable worst-case O(n log n) runtime. Heapsort is an in-place algorithm, but it is not a stable sort.
+
+Click me to see the solution
+
+
+4. Insertion Sort
+
+Write a JavaScript program to sort a list of elements using Insertion sort.
+
+Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
+
+Click me to see the solution
+
+
+5. Selection Sort
+
+Write a JavaScript program to sort a list of elements using the Selection sort algorithm.
+
+The selection sort improves on the bubble sort by making only one exchange for every pass through the list.
+
+Click me to see the solution
+
+
+6. Shell Sort
+
+Write a JavaScript program to sort a list of elements using Shell sort.
+
+According to Wikipedia "Shell sort or Shell's method, is an in-place comparison sort. It can be seen as either a generalization of sorting by exchange (bubble sort) or sorting by insertion (insertion sort). The method starts by sorting pairs of elements far apart from each other, then progressively reducing the gap between elements to be compared. Starting with far apart elements can move some out-of-place elements into position faster than a simple nearest neighbor exchange."
+
+Click me to see the solution
+
+
+7. Bubble Sort
+
+Write a JavaScript program to sort a list of elements using Bubble sort
+
+According to Wikipedia "Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted. The algorithm, which is a comparison sort, is named for the way smaller elements "bubble" to the top of the list. Although the algorithm is simple, it is too slow and impractical for most problems even when compared to insertion sort. It can be practical if the input is usually in sort order but may occasionally have some out-of-order elements nearly in position."
+
+Click me to see the solution
+
+
+8. Cocktail Shaker Sort
+
+Write a JavaScript program to sort a list of elements using Cocktail shaker sort.
+
+Cocktail shaker sort (also known as bidirectional bubble sort, cocktail sort, shaker sort, ripple sort, shuffle sort, or shuttle sort ) is a variation of bubble sort that is both a stable sorting algorithm and a comparison sort. The algorithm differs from a bubble sort in that it sorts in both directions on each pass through the list. This sorting algorithm is only marginally more difficult to implement than a bubble sort, and solves the problem of turtles in bubble sorts. It provides only marginal performance improvements, and does not improve asymptotic performance; like the bubble sort, it is not of practical interest,, though it finds some use in education.
+
+Click me to see the solution
+
+
+9. Comb Sort
+
+Write a JavaScript program to sort a list of elements using Comb sort.
+
+The Comb Sort is a variant of the Bubble Sort. Like the Shell sort, the Comb Sort increases the gap used in comparisons and exchanges. Some implementations use the insertion sort once the gap is less than a certain amount. The basic idea is to eliminate turtles, or small values near the end of the list, since in a bubble sort these slow the sorting down tremendously. Rabbits, large values around the beginning of the list, do not pose a problem in bubble sort.
+
+In bubble sort, when any two elements are compared, they always have a gap of 1. The basic idea of comb sort is that the gap can be much more than 1.
+
+Click me to see the solution
+
+
+10. Gnome Sort
+
+Write a JavaScript program to sort a list of elements using Gnome sort.
+
+Gnome sort is a sorting algorithm originally proposed by Dr. Hamid Sarbazi-Azad (Professor of Computer Engineering at Sharif University of Technology) in 2000 and called "stupid sort"[1] (not to be confused with bogosort), and then later on described by Dick Grune and named "gnome sort".
+
+The algorithm always finds the first place where two adjacent elements are in the wrong order, and swaps them. It takes advantage of the fact that performing a swap can introduce a new out-of-order adjacent pair only next to the two swapped elements.
+
+Click me to see the solution
+
+
+11. Counting Sort
+
+Write a JavaScript program to sort a list of elements using Counting sort.
+
+According to Wikipedia "In computer science, counting sort is an algorithm for sorting a collection of objects according to keys that are small integers; that is, it is an integer sorting algorithm. It operates by counting the number of objects that have each distinct key value, and using arithmetic on those counts to determine the positions of each key value in the output sequence. Its running time is linear in the number of items and the difference between the maximum and minimum key values, so it is only suitable for direct use in situations where the variation in keys is not significantly greater than the number of items. However, it is often used as a subroutine in another sorting algorithm, radix sort, that can handle larger keys more efficiently".
+
+Click me to see the solution
+
+
+12. Flash Sort
+
+Write a JavaScript program to sort a list of elements using Flash sort.
+
+Flashsort is a distribution sorting algorithm showing linear computational complexity O(n) for uniformly distributed data sets and relatively little additional memory requirement. The original work was published in 1998 by Karl-Dietrich Neubert. The basic idea behind flashsort is that in a data set with a known distribution, it is easy to immediately estimate where an element should be placed after sorting when the range of the set is known.
+
+Click me to see the solution
+
+
+13. Pancake Sort
+
+Write a JavaScript program to sort a list of elements using Pancake sort.
+
+Pancake sorting is the colloquial term for the mathematical problem of sorting a disordered stack of pancakes in order of size when a spatula can be inserted at any point in the stack and used to flip all pancakes above it. A pancake number is the minimum number of flips required for a given number of pancakes. The problem was first discussed by American geometer Jacob E. Goodman. It is a variation of the sorting problem in which the only allowed operation is to reverse the elements of some prefix of the sequence.
+
+Click me to see the solution
+
+
+14. Bogosort
+
+Write a JavaScript program to sort a list of elements using Bogosort.
+
+In computer science, bogosort is a particularly ineffective sorting algorithm based on the generate and test paradigm. The algorithm successively generates permutations of its input until it finds one that is sorted. It is not useful for sorting, but may be used for educational purposes, to contrast it with other more realistic algorithms.
+
+Click me to see the solution
+
+
+15. Bucket Sort
+
+Write a JavaScript program to sort an array of numbers, using the bucket sort algorithm.
+
+Click me to see the solution
+
+
+16. Sort Objects by Properties
+
+Write a JavaScript program to sort an array of objects, ordered by properties and orders.
+
+Click me to see the solution
+
+
+17. Find Highest Insert Index
+
+Write a JavaScript program to find the highest index at which a value should be inserted into an array to maintain its sort order. This is based on a provided iterator function.
+
+Click me to see the solution
+
+
+18. Sort Objects by Property Order
+
+Write a JavaScript program to sort an array of objects, ordered by a property, based on the array of orders provided.
+
+Click me to see the solution
+
+
+19. Sort Characters in String
+
+Write a JavaScript program to sort the characters in a string alphabetically.
+
+Click me to see the solution
+
+
+20. Find Lowest Insert Index
+
+Write a JavaScript program to find the lowest index at which a value should be inserted into an array to maintain its sorting order. This is based on the provided iterator function.
+
+Click me to see the solution
+
+
+21. Binary Search Index
+
+Write a JavaScript program to find the index of a given element in a sorted array using the binary search algorithm.
+
+Click me to see the solution
+
+
+22. Find Lowest Insert Index (Array)
+
+Write a JavaScript program to find the lowest index at which a value should be inserted into an array to maintain its sorting order.
+
+Click me to see the solution
+
+
+23. Find Highest Insert Index (Array)
+
+Write a JavaScript program to find the highest index at which a value should be inserted into an array to maintain its sort order.
+
+Click me to see the solution
+
+
+24. Check Array Sorted
+
+Write a JavaScript program to check if a numeric array is sorted or not.
+
+Click me to see the solution
+
+
+25. Timsort
+
+Write a JavaScript program to sort a list of elements using the Timsort sorting algorithm.
+
+From Wikipedia, Timsort is a hybrid, stable sorting algorithm, derived from merge sort and insertion sort, designed to perform well on many kinds of real-world data. It was implemented by Tim Peters in 2002 for use in the Python programming language. The algorithm finds subsequences of the data that are already ordered (runs) and uses them to sort the remainder more efficiently. This is done by merging runs until certain criteria are fulfilled. Timsort has been Python's standard sorting algorithm since version 2.3. It is also used to sort arrays of non-primitive type in Java SE 7, on the Android platform, in GNU Octave, on V8, Swift, and Rust.
+
+Click me to see the solution
+
+
+26. Alpha-Numeric Sort
+
+Write a JavaScript program to sort a list of elements using the Alpha Numerical sorting algorithm.
+
+From Wikipedia, In computing, natural sort order (or natural sorting) is the ordering of strings in alphabetical order, except that multi-digit numbers are treated atomically, i.e., as if they were a single character. Natural sort order has been promoted as being more human-friendly ("natural") than machine-oriented, pure alphabetical sort order. For example, in alphabetical sorting, "z11" would be sorted before "z2" because the "1" in the first string is sorted as smaller than "2", while in natural sorting "z2" is sorted before "z11" because "2" is treated as smaller than "11".
+
+Click me to see the solution
+
+
+27. Binary Insertion Sort
+
+Write a JavaScript program to sort a list of elements using the Binary Insertion sort algorithm.
+
+From Wikipedia, Binary insertion sort employs a binary search to determine the correct location to insert new elements, and therefore performs [log2 n] comparisons in the worst case. When each element in the array is searched for and inserted this is O(n log n). The algorithm as a whole still has a running time of O(n2) on average because of the series of swaps required for each insertion.
+
+Click me to see the solution
+
+
+28. Cycle Sort
+
+Write a JavaScript program to sort a list of elements using the Cycle sort algorithm.
+
+From Wikipedia, Cycle sort is an in-place, unstable sorting algorithm, a comparison sort that is theoretically optimal in terms of the total number of writes to the original array, unlike any other in-place sorting algorithm. It is based on the idea that the permutation to be sorted can be factored into cycles, which can individually be rotated to give a sorted result. Unlike nearly every other sort, items are never written elsewhere in the array simply to push them out of the way of the action. Each value is either written zero times, if it's already in its correct position, or written one time to its correct position. This matches the minimal number of overwrites required for a completed in-place sort.
+
+Click me to see the solution
+
+
+29. Odd-Even Sort
+
+Write a JavaScript program to sort a list of elements using the Odd - Even sort algorithm.
+
+From Wikipedia, In computing, an odd-even sort or odd-even transposition sort (also known as brick sort or parity sort) is a relatively simple sorting algorithm, developed originally for use on parallel processors with local interconnections. It is a comparison sort related to bubble sort, with which it shares many characteristics. It functions by comparing all odd/even indexed pairs of adjacent elements in the list and, if a pair is in the wrong order (the first is larger than the second) the elements are switched. The next step repeats this for even/odd indexed pairs (of adjacent elements). Then it alternates between odd/even and even/odd steps until the list is sorted.
+
+Click me to see the solution
+
+
+30. Pigeonhole Sort
+
+Write a JavaScript program to sort a list of elements using the Pigeonhole sort algorithm.
+
+Pigeonhole sorting is a sorting algorithm that is suitable for sorting lists of elements where the number n of elements and the length N of the range of possible key values are approximately the same. It requires O(n + N) time. It is similar to counting sort, but differs in that it "moves items twice: once to the bucket array and again to the final destination [whereas] counting sort builds an auxiliary array then uses the array to compute each item's final destination and move the item there."
+
+Click me to see the solution
+
+
+31. Stooge Sort
+
+Write a JavaScript program to sort a list of elements using the Stooge sort algorithm.
+
+From Wikipedia - Stooge sort is a recursive sorting algorithm. It is notable for its exceptionally bad time complexity of O(nlog 3 / log 1.5 ) = O(n2.7095...). The running time of the algorithm is thus slower compared to reasonable sorting algorithms, and is slower than bubble sort, a canonical example of a fairly inefficient sort. It is however more efficient than Slowsort. The name comes from The Three Stooges

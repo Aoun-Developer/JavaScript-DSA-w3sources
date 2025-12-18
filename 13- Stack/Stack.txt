@@ -1,0 +1,241 @@
+1. Stack Operations
+
+Write a JavaScript program to implement a stack with push and pop operations. Find the top element of the stack and check if it is empty or not.
+
+Click me to see the solution
+
+
+2. Sort Stack Descending
+
+Write a JavaScript program to sort the elements of a given stack in descending order.
+
+Click me to see the solution
+
+
+3. Sort Stack Ascending
+
+Write a JavaScript program to sort the elements of a given stack in ascending order.
+
+Click me to see the solution
+
+
+4. Reverse Stack
+
+Write a JavaScript program to reverse the elements of a given stack.
+
+Click me to see the solution
+
+
+5. Max & Min in Stack
+
+Write a JavaScript program to find the maximum and minimum elements in a stack.
+
+Click me to see the solution
+
+
+6. Clear Stack
+
+Write a JavaScript program to remove all elements from a given stack.
+
+Click me to see the solution
+
+
+7. Count Stack Elements
+
+Write a JavaScript program to count all the elements in a given stack.
+
+Click me to see the solution
+
+
+8. Check Element in Stack
+
+Write a JavaScript program to implement a stack that checks if a given element is present or not in the stack.
+
+Click me to see the solution
+
+
+9. Remove Duplicates from Stack
+
+Write a JavaScript program to remove duplicates from a given stack.
+
+Click me to see the solution
+
+
+10. Top & Bottom of Stack
+
+Write a JavaScript program to find the top and bottom elements of a given stack.
+
+Click me to see the solution
+
+
+11. Rotate Stack Left
+
+Write a JavaScript program to rotate the stack elements to the left direction.
+
+Click me to see the solution
+
+
+12. Rotate Stack Right
+
+Write a JavaScript program to rotate the stack elements to the right direction.
+
+Click me to see the solution
+
+
+13. Middle Element(s) of Stack
+
+Write a JavaScript program to get the middle element(s) of a given stack.
+
+Click me to see the solution
+
+
+14. Remove Specific Element from Stack
+
+Write a JavaScript program to remove a specific element from a stack.
+
+Click me to see the solution
+
+
+15. Swap Top Two Elements
+
+Write a JavaScript program to swap the top two elements of a given stack.
+
+Click me to see the solution
+
+
+16. Nth Element from Top
+
+Write a JavaScript program to get the nth element from the top of the stack.
+
+Click me to see the solution
+
+
+17. Nth Element from Bottom
+
+Write a JavaScript program to get the nth element from the bottom of the stack.
+
+Click me to see the solution
+
+
+18. Move Nth from Top to Top
+
+Write a JavaScript program to implement a stack and move the nth element from the top of the stack to the top.
+
+Click me to see the solution
+
+
+19. Move Nth from Bottom to Top
+
+Write a JavaScript program to implement a stack and move the nth element from the bottom of the stack to the top.
+
+Click me to see the solution
+
+
+20. Merge Two Stacks
+
+Write a JavaScript program to merge two stacks into one.
+
+Click me to see the solution
+
+
+21. Linked List Stack Implementation
+
+Write a JavaScript program to implement a stack using a linked list with push and pop operations. Find the top element of the stack and check if the stack is empty or not.
+
+Click me to see the solution
+
+
+22. Stack to Array
+
+Write a JavaScript program to implement a stack that supports toArray() operation, which converts the stack into an array.
+
+Click me to see the solution
+
+
+23. Create Stacks from Arrays
+
+Write a JavaScript program that can create stacks from arrays.
+
+Click me to see the solution
+
+
+24. Stack Concat Operation
+
+Write a JavaScript program to implement a stack that supports concat() operation, which concatenates two stacks into a new stack.
+
+Click me to see the solution
+
+
+25. Copy Stack
+
+Write a JavaScript program to implement a stack that creates a copy of the stack.
+
+Click me to see the solution
+
+
+26. Check Subset Stack
+
+Write a JavaScript program that implements a stack and checks if a stack is a subset of another stack.
+
+Click me to see the solution
+
+
+27. Compare Two Stacks
+
+Write a JavaScript program that implements a stack and checks if two stacks are equal.
+
+Click me to see the solution
+
+
+28. Common Elements in Two Stacks
+
+Write a JavaScript program that implements a stack and finds elements that are common in two stacks..
+
+Click me to see the solution
+
+
+29. Elements in Stack1 Not in Stack2
+
+Write a JavaScript program that implements a stack and find elements that are in the first stack but not in the second stack.
+
+Click me to see the solution
+
+
+30. Union of Two Stacks
+
+Write a JavaScript program that implements a stack and creates a new stack that contains all elements from both stacks without duplicates.
+
+Click me to see the solution
+
+
+31. Stack Symmetric Difference
+
+Write a JavaScript program that implements a stack and creates a new stack that contains only elements that are in either the first or the second stack, but not in both.
+
+Click me to see the solution
+
+
+32. New Stack from Portion
+
+Write a JavaScript program that implements a stack and creates a new stack from a portion of the original stack.
+
+Click me to see the solution
+
+
+33. Check All Satisfy Condition
+
+Write a JavaScript program that implements a stack and checks if all elements of the stack satisfy a condition.
+
+Click me to see the solution
+
+
+34. Check Any Satisfy Condition
+
+Write a JavaScript program that implements a stack and checks if at least one element of the stack satisfies a condition.
+
+Click me to see the solution
+
+
+35. Filter Stack by Condition
+
+Write a JavaScript program that implements a stack and create a new stack by removing elements that do not satisfy a condition.

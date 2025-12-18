@@ -1,0 +1,136 @@
+Default Export:
+
+1. Write a JavaScript module that exports a default function to greet a user and use it in another file.
+
+Click me to see the solution
+
+
+Named Exports:
+
+2. Write a JavaScript module that exports multiple named functions for basic arithmetic operations.
+
+Click me to see the solution
+
+
+Import all as Alias:
+
+3. Write a JavaScript programme that imports all exports from a module as a single object and use its properties.
+
+Click me to see the solution
+
+
+Combining Default and Named Exports:
+
+4. Write a JavaScript module with both default and named exports. Use both in another file.
+
+Click me to see the solution
+
+
+Re-exporting:
+
+5. Write a JavaScript module that re-exports functions from another module.
+
+Click me to see the solution
+
+
+Import with Alias:
+
+6. Write a JavaScript programme that imports named exports from a module using alias names and use them in another file.
+
+Click me to see the solution
+
+
+Dynamic Imports:
+
+7. Write a JavaScript programme that uses dynamic imports to load a module and invoke its function asynchronously.
+
+Click me to see the solution
+
+
+Conditional Imports:
+
+8. Write a JavaScript program that imports a specific module conditionally based on a runtime value.
+
+Click me to see the solution
+
+
+Exporting Constants:
+
+9. Write a JavaScript program to create a module that exports multiple constants. Use them in another file.
+
+Click me to see the solution
+
+
+Aggregating Exports:
+
+10. Write a JavaScript program to aggregate exports from two different modules into one module and use them.
+
+Click me to see the solution
+
+
+Importing JSON Data:
+
+11. Write a JavaScript program to import a JSON file as a module and access its properties.
+
+Click me to see the solution
+
+
+Exporting Classes:
+
+12. Write a JavaScript program to create a module that exports a class. Instantiate and use the class in another file.
+
+Click me to see the solution
+
+
+Tree Shaking:
+
+13. Write a JavaScript program to create a module with multiple exports and import only the functions needed.
+
+Click me to see the solution
+
+
+Default Import Alias:
+
+14. Write a JavaScript program to import a default export using a custom name and invoke it.
+
+Click me to see the solution
+
+
+Namespace Import:
+
+15. Write a JavaScript program that imports an entire module as a namespace and access its properties.
+
+Click me to see the solution
+
+
+Circular Dependency:
+
+16. Write a JavaScript program to create two modules that import each other and handle the circular dependency.
+
+Click me to see the solution
+
+
+Exporting Functions Inline:
+
+17. Write a JavaScript program to export a function directly during its definition and import it.
+
+Click me to see the solution
+
+
+Importing Without Using:
+
+18. Write a JavaScript program to import a module for its side effects without directly using any exports.
+
+Click me to see the solution
+
+
+Overriding Exports:
+
+19. Write a JavaScript program to create a module and override its exports dynamically in another file.
+
+Click me to see the solution
+
+
+Mixing ES6 and CommonJS Modules:
+
+20. Write a JavaScript program that uses an ES6 module to import a CommonJS module and vice versa.
