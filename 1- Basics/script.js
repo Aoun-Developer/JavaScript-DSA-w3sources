@@ -47,4 +47,15 @@ function getCurrentDayAndTime2(date = new Date()){
 }
 
 let abc = getCurrentDayAndTime2();
-console.log(abc)
+// console.log(abc)
+
+// ---------------------------------------------------------------------------------------------
+// 2. Print Current Window Contents
+// Write a JavaScript program to print the current window contents.  
+function printWindowContents(){
+    document.getElementById("print_btn").addEventListener("click", function(){
+        window.print();
+    })
+}
+
+printWindowContents()
